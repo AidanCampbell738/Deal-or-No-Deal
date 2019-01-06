@@ -1,2 +1,2 @@
 # Deal-or-No-Deal
-Java Game I made for my Grade 11 Computer Science ISU
+Java program that runs a game of Deal or No deal (the gameshow).
